@@ -1,1 +1,1 @@
-https://modrinth.com/mod/armorhudutilised
+https://modrinth.com/mod/rezarmorhud
